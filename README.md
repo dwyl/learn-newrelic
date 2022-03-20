@@ -9,10 +9,10 @@ where your code is not running optimally.
 
 Monitor exactly which parts of your application are running slowly.
 
-If you are new to New Relic, read: http://newrelic.com/application-monitoring
+If you are new to New Relic, read: https://newrelic.com/application-monitoring
 
 Highly recommend listening to @stanford ECorner podcast
 "***Life is Too Short for Bad Software***" featuring.
 Lew Cirne [@sweetlew](https://twitter.com/sweetlew) founder of
 [@newrelic](https://twitter.com/newrelic)
-http://ecorner.stanford.edu/authorMaterialInfo.html?mid=3367
+https://ecorner.stanford.edu/authorMaterialInfo.html?mid=3367
